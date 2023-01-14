@@ -2,27 +2,11 @@
   "tasks": [
     {
       "number": "1",
-      "descricao": "123",
-      "data": "2023-01-05",
+      "descricao": "Projeto Final 1º Modulo",
+      "data": "2023-01-14",
       "selecao": "Concluído",
       "id": 1
-    },
-    {
-      "number": "123",
-      "descricao": "teste",
-      "data": "1998-01-12",
-      "selecao": "Concluído",
-      "id": 2
     }
   ],
-  "login": [
-     {
-      "login": "Gabriel Souza",
-      "email": "gabrielsouzaalves750@gmail.com",
-      "senha": "123456789",
-      "senha_Confirmada": "123456789",
-      "id": 1
-    }
-   
-  ]
+  "login": []
 }
