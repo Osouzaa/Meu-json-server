@@ -16,40 +16,13 @@
     }
   ],
   "login": [
-    {
+     {
       "login": "Gabriel Souza",
-      "email": "gabrielsouza177@yahoo.com",
-      "senha": "131220",
-      "senha_Confirmada": "131220",
+      "email": "gabrielsouzaalves750@gmail.com",
+      "senha": "123456789",
+      "senha_Confirmada": "123456789",
       "id": 1
-    },
-    {
-      "login": "Gilson Felipe",
-      "email": "Gilson@gmail.com",
-      "senha": "131220",
-      "senha_Confirmada": "131220",
-      "id": 2
-    },
-    {
-      "login": "GABRIEL SOUZAA",
-      "email": "ASDASD@GMAIL.COM",
-      "senha": "12312123",
-      "senha_Confirmada": "123213123",
-      "id": 3
-    },
-    {
-      "login": "Hugo_Souza",
-      "email": "hugoalves61@yahoo.com.br",
-      "senha": "120198hugo",
-      "senha_Confirmada": "120198hugo",
-      "id": 4
-    },
-    {
-      "login": "mariza",
-      "email": "marizaabadia@yahoo.com.br",
-      "senha": "120198",
-      "senha_Confirmada": "120198",
-      "id": 5
     }
+   
   ]
 }
